@@ -1,0 +1,12 @@
+{
+  "name": "jorsermar/jsm-twentyfifteen-child",
+  "description": "My own version of the WP standard theme",
+  "keywords": ["wordpress", "themes", "twentyfifteen"],
+  "homepage": "https://github.com/jorsermar/jsm-twentyfifteen-child",
+  "license": "GPLv2",
+  "type": "wordpress-themes",
+  "require": {
+    "php": ">=5.6.0",
+    "composer/installers": ">=v1.2.0"
+  }
+}
