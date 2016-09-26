@@ -5,8 +5,15 @@
   "homepage": "https://github.com/jorsermar/jsm-twentyfifteen-child",
   "license": "GPLv2",
   "type": "wordpress-theme",
+  "repositories": [
+    {
+      "type": "composer",
+      "url" : "https://wpackagist.org"
+    }
+  ],
   "require": {
     "php": ">=5.5.36",
-    "composer/installers": ">=v1.2.0"
+    "composer/installers": ">=v1.2.0",
+    "wpackagist-theme/twentyfifteen": "*"
   }
 }
