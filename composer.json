@@ -6,7 +6,7 @@
   "license": "GPLv2",
   "type": "wordpress-themes",
   "require": {
-    "php": ">=5.6.0",
+    "php": ">=5.5.36",
     "composer/installers": ">=v1.2.0"
   }
 }
